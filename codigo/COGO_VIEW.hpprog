@@ -1,0 +1,6 @@
+
+VIEW "COGO prime illarisoft",START()
+BEGIN
+  saludo_inicial();
+  msgbox("hola mundo");
+END;

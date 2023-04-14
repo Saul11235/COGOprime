@@ -1,0 +1,15 @@
+EXPORT saludo_inicial()
+BEGIN
+
+  RECT_P(0,0,320,240,RGB(0,0,0),RGB(255,255,255));
+  BLIT_P(G0,"illari2",-73,-15,320,240);
+    
+  TEXTOUT_P("www.illarisoft.com",66,200,7,RGB(150,150,150));
+  WAIT(0.5);
+
+
+END;
+
+
+
+

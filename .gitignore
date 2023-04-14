@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+*.json
+/__pycache__
+program.hpprog
+linesprog.json
+
